@@ -6,6 +6,8 @@ int test1()
     return 0;
 }
 
+int test2();
+
 int main()
 {
     int a   = 0;
@@ -17,10 +19,17 @@ int main()
 
     // some other code
 
-	alabala
-	ne mi se otvarq visual studio
-	zatova go karam prez notepada
+    // alabala
+    // ne mi se otvarq visual studio
+    // zatova go karam prez notepada
+
+    res &= test2();
 
     // program exit normally
     return 0;
+}
+
+int test2()
+{
+    return 1;
 }
