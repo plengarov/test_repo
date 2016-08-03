@@ -14,6 +14,8 @@ int main()
     // some code here
     res = test1();
 
+	ei tuka dobavqm oshte neshto
+	
 
     // some other code
 
@@ -21,6 +23,7 @@ int main()
 	ne mi se otvarq visual studio
 	zatova go karam prez notepada
 
+	tuka syshto oshte malko 
     // program exit normally
     return 0;
 }
