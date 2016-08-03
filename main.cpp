@@ -17,6 +17,9 @@ int main()
 
     // some other code
 
+	alabala
+	ne mi se otvarq visual studio
+	zatova go karam prez notepada
 
     // program exit normally
     return 0;
