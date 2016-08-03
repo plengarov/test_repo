@@ -14,8 +14,10 @@ int main()
     int res = -1;
 
     // some code here
-    res = test1();
+    res = test2(a);
 
+	ei tuka dobavqm oshte neshto
+	
 
     // some other code
 
@@ -25,6 +27,7 @@ int main()
 
     res &= test2();
 
+	tuka syshto oshte malko 
     // program exit normally
     return 0;
 }
