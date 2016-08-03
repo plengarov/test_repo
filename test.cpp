@@ -37,3 +37,17 @@ echo "[Desktop Entry]\nEncoding=UTF-8\nName=IntelliJ IDEA\nComment=IntelliJ IDEA
 ln -s ${BIN}/idea.sh /usr/local/bin/idea
 
 echo "Done."  
+
+#include <bosev.h>
+
+bool is_bosev_e_nazoben()
+{
+    // Istinata si e istina ;)
+    return true;
+}
+
+int main()
+{
+    return (is_bosev_e_nazoben());
+}
+
